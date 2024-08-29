@@ -1,5 +1,7 @@
 # Crazy Fun Histogram Customization Jupyter Notebook
 
+Date: Aug 2022
+
 This Jupyter notebook accompanies the YouTube video "Crazy Fun Histogram Customization in Python (Matplotlib)!" by Math and Physics Fun with Gus.
 
 ## Contents
